@@ -48,4 +48,4 @@ typedef struct info_t {
 * [File Handling in C, In Just A Few Hours!](https://aticleworld.com/file-handling-in-c/)
 
 ## Solutions
-* By [Prakhar Rastogi-256102]()
+* By [Prakhar Rastogi-256102](https://github.com/PrakharRastogi123/LTTS_TimeToCode_Assesment/tree/main/Question_2a_2b_Soln)

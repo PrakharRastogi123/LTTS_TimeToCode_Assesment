@@ -49,3 +49,5 @@ typedef struct info_t {
 
 ## Solutions
 * By [Prakhar Rastogi-256102](https://github.com/PrakharRastogi123/LTTS_TimeToCode_Assesment/tree/main/Question_2a_2b_Soln)
+## Solution Ouput:
+* ![alt text](http://url/to/img.png)

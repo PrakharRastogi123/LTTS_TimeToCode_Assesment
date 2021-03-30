@@ -49,6 +49,7 @@ typedef struct info_t {
 
 ## Solutions
 * By [Prakhar Rastogi-256102](https://github.com/PrakharRastogi123/LTTS_TimeToCode_Assesment/tree/main/Question_2a_2b_Soln)
-
+## Sample Input:
+* ![alt text](https://github.com/PrakharRastogi123/LTTS_TimeToCode_Assesment/blob/main/Question_2a_2b_Soln/Input_ScreenShot/input.png)
 ## Ouput:
 * ![alt text](https://github.com/PrakharRastogi123/LTTS_TimeToCode_Assesment/blob/main/Question_2a_2b_Soln/Output_ScreenShot/output.png)
